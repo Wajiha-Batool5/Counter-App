@@ -1,21 +1,58 @@
-# cMLr3asK
+### 📦 Counter App
 
-Quick start:
+A simple and interactive counter application built using **Vite**, **HTML**, **CSS**, and **JavaScript**. This app allows users to increase, decrease, or reset a counter value with a responsive UI and smooth styling.
+
+---
+
+### 🚀 Features
+
+* 🔼 Increment and 🔽 decrement functionality
+* 🔁 Reset button to start over
+* ⚡ Fast development setup using Vite
+* 🎨 Clean, modern UI with responsive design
+* 🖼️ Image asset support (e.g., `Counter.avif`)
+
+---
+
+### 📂 Project Structure
 
 ```
-$ npm install
-$ npm start
-````
+Counter-App/
+├── index.html          # Main HTML file
+├── index.css           # Styling
+├── index.js            # App logic
+├── Counter.avif        # Image asset
+├── package.json        # Project metadata & scripts
+├── vite.config.js      # Vite configuration
+```
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+---
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+### 🛠️ Getting Started
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+#### Prerequisites
 
-Happy Coding!
+* [Node.js](https://nodejs.org/) installed
+
+#### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Wajiha-Batool5/Counter-App.git
+cd Counter-App
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+---
+
+### 📸 Preview
+
+Include a screenshot or GIF of your app here:
+
+> *Coming Soon* or add a screenshot like `Counter.avif`
+
