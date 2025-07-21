@@ -4,11 +4,18 @@
     </head>
     <body>
         <div class="container">
-            <h1>Row Counter</h1>
+            <h1>COUNTERLY</h1>
             <h2 id="count-el">0</h2>
-            <button id="increment-btn" onclick="increment()">INCREMENT</button>
-            <button id="save-btn" onclick="save()">SAVE</button>
+            <div class="button-row">
+                <button id="increment-btn" onclick="increment()">INCREMENT</button>
+                <button id="save-btn" onclick="save()">SAVE</button>
+            </div>
+            <div class="button-row">
+                <button id="sum-btn" onclick="sumEntries()">SUM</button>
+                <button id="reset-btn" onclick="resetEntries()">RESET</button>
+            </div>
             <p id="save-el">Previous entries: </p>
+            <p id="sum-el"></p>
         </div>
         <script src="index.js">
             nnerText
