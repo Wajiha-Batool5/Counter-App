@@ -52,7 +52,5 @@ npm run dev
 
 ### 📸 Preview
 
-Include a screenshot or GIF of your app here:
-
-> *Coming Soon* or add a screenshot like `Counter.avif`
+![alt text](image.png)
 
